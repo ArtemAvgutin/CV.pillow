@@ -1,4 +1,4 @@
-# CV.pillow
+# CV_pillow
 ## Working with the pillow library and practicing image manipulation skills
 ## Работа с библиотекой pillow и отработка навыков работы с изображениями
 
