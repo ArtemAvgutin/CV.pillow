@@ -1,6 +1,6 @@
 # CV_pillow
-## Working with the pillow library and practicing image manipulation skills
-## Работа с библиотекой pillow и отработка навыков работы с изображениями
+## Working with computer vision, the pillow library and developing image manipulation skills
+## Работа с компьютерным зрением, библиотекой pillow и отработка навыков работы с изображениями
 
 * В данной работе задачей стояла отработка навыков обработки изображения с помощью библиотеки pillow и других интструментов.
 * Были использованы различные маски, цвета, преобразования, рассмотрение тензоров, фильтрации и т.д.
